@@ -26,7 +26,6 @@ body.wrong{
 .container{
     width: 800px;
     max-width: 700%;
-    margin-left: 50px;
     background-color: black;
     color: white;
     border-radius: 5px;
